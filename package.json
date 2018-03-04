@@ -1,0 +1,13 @@
+{
+  "title": "Data Extraction and Alignment",
+  "name": "data.extraction",
+  "version": "1.0.0",
+  "description": "Extract data records from web pages and align their data items",
+  "main": "index.js",
+  "author": "FadwaEstuka",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
