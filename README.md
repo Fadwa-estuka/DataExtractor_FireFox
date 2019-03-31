@@ -4,6 +4,7 @@ A Mozilla Firefox add-on for extracting and aligning search result data records 
 This add-on was built on SDK which no longer supported in Firefox 57 and above (https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Add-on_SDK/Tutorials/Getting_Started_(jpm)).
 
 This add-on was successfully tested with Mozilla Developer Preview ver 49.0.1
+
 As Mozilla Firefox specifies (https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/Distribution), unsigned extensions can be installed in Developer Edition, Nightly, and ESR versions of Firefox, after toggling the xpinstall.signatures.required preference in about:config.
 To run the add-on: 
 - download the extension folder from github
